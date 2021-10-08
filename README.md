@@ -10,8 +10,8 @@
 
 
 
-![](https://github.com/omar178/Emotion-recognition/blob/master/emotions/Happy.PNG)
-![](https://github.com/omar178/Emotion-recognition/blob/master/emotions/angry.PNG)
+![](https://github.com/majedrifat/Emotion-recognition-email_to_Admin/blob/main/emotions/Happy.PNG)
+![](https://github.com/majedrifat/Emotion-recognition-email_to_Admin/blob/main/emotions/angry.PNG)
 
 
 
@@ -19,7 +19,7 @@
 <a id="p1"></a> 
 # Description:
 
-Our Human face is having a mixed emotions so we are to demonstrate the probabilities of these emotions that we have.
+Our Human face is having a mixed emotions so i tried to demonstrate the probabilities of these emotions that we have. and final one email to admin to track customer care employee face reaction.
 
 ## What does Emotion Recognition mean?
 
@@ -61,13 +61,6 @@ Download it and put the csv in fer2013/fer2013/
 
 
 # Credits
-This work is inspired from [this](https://github.com/oarriaga/face_classification) great work and the resources of Adrian Rosebrock helped me alot!.
-
-# Ongoing 
-Draw emotions faces next to the detected face.
-
-# Issues & Suggestions
-
-If any issues and suggestions to me, you can create an [issue](https://github.com/omar178/Emotion-recognition/issues).
+This work is inspired from [this](https://github.com/oarriaga/face_classification) great work .
 
 If you like this work please help me by giving me some stars.
